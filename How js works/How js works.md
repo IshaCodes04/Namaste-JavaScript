@@ -8,5 +8,7 @@
 
 1. Memory Component 
 
+- where all variables and functions can be stored as the form of key : value pairs for ex - a : 10 , fnc : {...} 
+
 
 
