@@ -16,6 +16,6 @@
 
 - This is the place where code is executed one line at a time.
 
-
+- code component also know as Thread of Execution.
 
 
