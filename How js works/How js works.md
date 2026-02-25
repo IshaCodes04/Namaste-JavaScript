@@ -10,5 +10,12 @@
 
 - where all variables and functions can be stored as the form of key : value pairs for ex - a : 10 , fnc : {...} 
 
+- Memory component know as variable environment.
+
+2. Code Component
+
+- This is the place where code is executed one line at a time.
+
+
 
 
