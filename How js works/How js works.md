@@ -22,3 +22,9 @@
 *"JavaScript is a synchronous single-threaded language"*
 
 - Single threaded means javascript can execute only one command at a time.
+
+- But when we say synchronous single threaded it means that javascript can only executed one command at a time in a specific order.
+
+- Specific order means it can only go to the next line once the current line has been finished execution.
+
+
