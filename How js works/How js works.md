@@ -19,3 +19,6 @@
 - code component also know as Thread of Execution.
 
 
+*"JavaScript is a synchronous single-threaded language"*
+
+- Single threaded means javascript can execute only one command at a time.
