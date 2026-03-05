@@ -28,8 +28,3 @@
 * Specific order means it can only go to the next line once the current line has been finish their
 execution.
 
-*What happen when you run a javascript code?*
-
-- when we runs a javascript code an execution context created 
-
-- When we run whole code then a global execution context is created means exectution context which has memory component + code component in it.
